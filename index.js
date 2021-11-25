@@ -5,4 +5,4 @@ module.exports = () => {
       data.users.push({ id: i, name: `user${i}` })
     }
     return data
-  }
+}
