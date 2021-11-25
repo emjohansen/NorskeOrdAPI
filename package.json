@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server db.json"
+    "start": "json-server randomword.js"
+    
   },
   "keywords": [],
   "author": "",

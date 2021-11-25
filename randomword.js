@@ -9,3 +9,5 @@ function randomNorwegianWord() {
         return newans
     }
 }
+
+randomNorwegianWord();
